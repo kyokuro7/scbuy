@@ -1,1 +1,12 @@
-{"licenses":[]}
+{
+  "licenses": [
+    {
+      "token": "8658963660:AAH0bSCIsys5gIjL6rtLA9oQu6yCc6j3sPY",
+      "expiry": 1773257125689,
+      "days": 2,
+      "keyCode": "ZETE-UFZ6-3WJM-J84W",
+      "telegramId": 8102599290,
+      "activatedAt": 1773084325689
+    }
+  ]
+}
